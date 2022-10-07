@@ -8,3 +8,9 @@ h1{
 	margin: 0;
 	padding: 2em 0;
 }
+h2{
+	color: #202061;
+}
+p{
+	text-align: justify;
+}
